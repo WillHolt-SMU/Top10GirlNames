@@ -1,15 +1,42 @@
 # Top 10 Girl Names Codebook
 
 ## Purpose
+
 This file has been created to explain an assignment from SMU's Data Science class (Week 5, 2017)
 
+
 ## Files
+
 Within the repository one should find the following files
+
 - yob2015.txt
   - This file contains raw data for the names and the number of times the name was given to a newborn in 2015
 - yob2016
   - This file contains raw data for the names and the number of times the name was given to a newborn in 2015
 - Top10Girls.csv
   - This file contains the top 10 girl names from 2015 and 2016
-- Assignment5.rmd
+- Assignment5.Rmd
   - Explains the necessary steps to clean and merge yob2015 and yob2016 and returning the final Top10Girls file
+
+
+## Source
+
+yob2015.txt and yob 2016.txt were provided by the professor
+Top10Girls.csv and Assignment5.Rmd were produced from those files
+
+
+##Variables
+
+- yob2015 does not have variables, but the following were created within R:
+  - Name is the name given to the child
+  - Sex identifies the sex of the child
+  - Count provides the number of times the name was given in 2015
+
+- yob2016 does not have variables, but the following were created within R:
+  - Name is the name given to the child
+  - Sex identifies the sex of the child
+  - Count provides the number of times the name was given in 2016
+  
+- FinalTop10Girls.csv
+  - Name provides the name given to the child
+  - Total provides the numbe rof times the name was given in 2015 and 2016 and are arranged in descending order
