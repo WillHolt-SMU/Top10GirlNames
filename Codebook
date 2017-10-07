@@ -40,3 +40,8 @@ Top10Girls.csv and Assignment5.Rmd were produced from those files
 - FinalTop10Girls.csv
   - Name provides the name given to the child
   - Total provides the numbe rof times the name was given in 2015 and 2016 and are arranged in descending order
+
+## Implementation of R code
+
+R was used throughout this project to clean and merge data sets to arrive at final file for this assignement
+It allowed for the identification of a duplicate entry that was mispelled and loaded the final file to the directory that was determined
