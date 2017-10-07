@@ -1,4 +1,4 @@
-# Top 10 Girl Names
+Top 10 Girl Names
 ===================
 
 This repository contains data sets to answer homework questions for Week 5, 2017 of Southern Methodist University's Data Science class.
